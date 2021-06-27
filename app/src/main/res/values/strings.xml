@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="primeiro_valor">Primeiro valor:</string>
+    <string name="segundo_valor">Segundo valor:</string>
+    <string name="calcula">Calcula</string>
+    <string name="soma">+</string>
+    <string name="sub">-</string>
+    <string name="x">x</string>
+    <string name="div">÷</string>
 </resources>
